@@ -1,1 +1,1 @@
-# Estimation of the company's profit from their different expenditure using the Linear Regression algorithm.
+# Predicting the company's profit based on their different expenditure using the Linear Regression model.
