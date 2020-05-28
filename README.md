@@ -18,6 +18,7 @@ This project is implemented in python. The following python-based packages are u
 * **seaborn** : It is a python data visualisation library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics. It is built on top of matplotlib and closely integrated with pandas data structures. It offers dataset-oriented API for examining relationships between multiple variables. In this project, it is used for plotting heatmaps. [More Information](https://seaborn.pydata.org/index.html)
 
 ## Dataset
+The supervised learning is used to analyse this problem for which a labelled data is required to train the model. The data is collected from the company, which tells the profit they are making from investing their shares in different expenditures. The data consists of 5 columns and 1000 rows. The sample of the first five rows are shown below by using `company.head()` command.
 
 ## Implemented Techniques
 
