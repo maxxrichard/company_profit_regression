@@ -9,6 +9,14 @@ This project is implemented in python. The following python-based packages are u
 
 * **skikit-learn** : It is a collection of simple and efficient tools for predictive data analysis using supervised and unsupervised machine learning algorithms. It also contains the tools for data preprocessing, which is needed since the collected data is not always in the format which is required by the model. So, a little bit of preprocessing is needed to the dataset. In this project, `OneHotEncoder` and `ColumnTransformer` are used to process the categorical data into labels. [More Information](https://scikit-learn.org/stable/index.html)
 
+* **pandas** : 
+
+* **numpy** : 
+
+* **matplotlib** : 
+
+* **seaborn** : 
+
 ## Dataset
 
 ## Implemented Techniques
