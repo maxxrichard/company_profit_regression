@@ -7,7 +7,7 @@ The US-based multinational company has three branches in different locations, i.
 ## Packages
 This project is implemented in python. The following python-based packages are used:
 
-* skikit-learn : It is a collection of simple and efficient tools for predictive data analysis using supervised and unsupervised machine learning algorithms. [More Information] (https://scikit-learn.org/stable/index.html)
+* **skikit-learn** : It is a collection of simple and efficient tools for predictive data analysis using supervised and unsupervised machine learning algorithms. [More Information](https://scikit-learn.org/stable/index.html)
 
 ## Dataset
 
