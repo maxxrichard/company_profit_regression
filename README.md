@@ -20,7 +20,7 @@ This project is implemented in python. The following python-based packages are u
 ## Dataset
 The supervised learning is used to analyse this problem for which a labelled data is required to train the model. The data is collected from the company, which tells the profit they are making from investing their shares in different expenditures. The data consists of 5 columns and 1000 rows. The sample of the first five rows are shown below by using `company.head()` command.
 
-<img src="img/head.png" width="800">
+<img src="img/head.png" width="650">
 
 
 ## Implemented Techniques
