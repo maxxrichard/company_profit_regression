@@ -22,11 +22,14 @@ The supervised learning is used to analyse this problem for which a labelled dat
 
 <img src="img/head.png" width="650">
 
+The correlation among different expenditures is shown using a heatmap below.
+
+<img src="img/heatmap.png" width="650">
+
 
 ## Implemention
-In this project, the linear regression model is used to estimate the relationship between a dependent variable and one or more independent variables. [More Information](https://en.wikipedia.org/wiki/Regression_analysis) 
-After preprocessing, the whole dataset is divided into training and testing dataset, i.e. 80% of training dataset and 20% of the testing dataset. The training dataset is used to train the model, and then the model is used to predict the outcomes of the testing dataset, and the R^2 score is calculated.
-The coefficient of determination or R^2 score is the proportion of the variance in the dependent variable that is predictable from the independent variables. [More Information](https://en.wikipedia.org/wiki/Coefficient_of_determination)
+In this project, the linear regression model is used to estimate the relationship between a dependent variable and one or more independent variables. [More Information](https://en.wikipedia.org/wiki/Regression_analysis) After preprocessing, the whole dataset is divided into training and testing dataset, i.e. 80% of training dataset and 20% of the testing dataset. The training dataset is used to train the model, and then the model is used to predict the outcomes of the testing dataset, and the R2 score is calculated. The coefficient of determination or R2 score is the proportion of the variance in the dependent variable that is predictable from the independent variables. [More Information](https://en.wikipedia.org/wiki/Coefficient_of_determination)
 
 
 ## Result
+The Regression model is trained successfully and can be used to predict the profit based on the different values of expenditures. The R2 value is found to be 0.91, which shows that the model shows a good result with the testing dataset.
