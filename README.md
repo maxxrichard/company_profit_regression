@@ -1,5 +1,5 @@
-# Estimating the company's profit using the Linear Regression model.
-This repository contains the implementation of one of the supervised learning model called linear regression in predicting the total profit of the company based on their different expenditures.
+# Company's profit using Regression model
+This repository contains the implementation of one of the supervised learning model called regression in predicting the total profit of the company based on their different expenditures.
 
 ## Problem Statement
 The US-based multinational company has three branches in different locations, i.e. New York, California, Florida. The company is spending its share in Research & Development, Administration and Marketing and making a total profit from these different expenditures. Now, the company would like to know how can they maximise the profit by spending their share in fair amount among different expenditures at different locations.
@@ -23,6 +23,10 @@ The supervised learning is used to analyse this problem for which a labelled dat
 <img src="img/head.png" width="650">
 
 
-## Implemented Techniques
+## Implemention
+In this project, the linear regression model is used to estimate the relationship between a dependent variable and one or more independent variables. [More Information](https://en.wikipedia.org/wiki/Regression_analysis) 
+After preprocessing, the whole dataset is divided into training and testing dataset, i.e. 80% of training dataset and 20% of the testing dataset. The training dataset is used to train the model, and then the model is used to predict the outcomes of the testing dataset, and the R^2 score is calculated.
+The coefficient of determination or R^2 score is the proportion of the variance in the dependent variable that is predictable from the independent variables. [More Information](https://en.wikipedia.org/wiki/Coefficient_of_determination)
+
 
 ## Result
